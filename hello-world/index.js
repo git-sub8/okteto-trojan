@@ -111,10 +111,10 @@ function keepalive() {
     Cookie:
       "_lr_uf_-okteto-waxir=66f1c75d-b015-4b06-b9bd-649d1c7d772a; private-endpoint=MTY4MzY4NzYxNXwxZ3RsSzhmLWczd1pzaFF6YjhFb084ZXBDNU1NQjJoVjh4dEIyc0Q5UFJ5S0NnV29XTERnMmVMZXZjYjFmd1VRSDZpOEhCSVdYMGIyMDVzcmVIdGdWX0liNG5jYUtHN1E2V2dkSFg3VDBOUkx3TzRaaGVsa3dPTWFERU02aFdfWVhHbXoyMVpWWmZJejlMU3NvWEZqY2pVc0hfMC1QYjV5OU83MGRCLS1HaHc9fEX2XyZ2DF3kuyMguR0AtpWyl5vzALmVmPYzLiaUlZBm; mp_92fe782cdffa212d8f03861fbf1ea301_mixpanel=%7B%22distinct_id%22%3A%20%22185c8eb91501ca-0e4ae1989bb43e-26021051-c0000-185c8eb915112b%22%2C%22%24device_id%22%3A%20%22185c8eb91501ca-0e4ae1989bb43e-26021051-c0000-185c8eb915112b%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fgist.github.com%2F%22%2C%22%24initial_referring_domain%22%3A%20%22gist.github.com%22%2C%22__alias%22%3A%20%2298a487e8-3087-4066-b909-9c4a8fde182e%22%2C%22%24user_id%22%3A%20%2298a487e8-3087-4066-b909-9c4a8fde182e%22%7D; _lr_hb_-okteto-waxir%2Fokteto-cloud={%22heartbeat%22:1674127992754}; _lr_tabs_-okteto-waxir%2Fokteto-cloud={%22sessionID%22:0%2C%22recordingID%22:%225-29b5f578-3486-4ddc-8269-83b6d4b4b083%22%2C%22lastActivity%22:1674128093344}",
     "sec-ch-ua":
-      '"Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"',
+      '"Not_A Brand";v="99", "Google Chrome";v="112", "Chromium";v="112"',
     "content-type": "application/json",
     "sec-ch-ua-mobile": "?0",
-    authorization: "Bearer 7sYFiViLTesOb5ImspB4yxE1yM8pmDHOjpn4yBRa",
+    authorization: "Bearer bVfSx4CGwWzPveCX62CVwbotKmigPc0aKwPaJy9U",
     "user-agent":
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
     "sec-ch-ua-platform": '"Windows"',
@@ -123,8 +123,8 @@ function keepalive() {
     "sec-fetch-site": "same-origin",
     "sec-fetch-mode": "cors",
     "sec-fetch-dest": "empty",
-    referer: "https://cloud.okteto.com/",
-    "accept-language": "zh-CN,zh;q=0.9",
+    referer: "https://cloud.okteto.com/spaces/git-sub8?resourceId=e6fed3b6-41d0-4007-a52e-1940ff14eaf0",
+    "accept-language": "zh-CN,zh;q=0.9,ru;q=0.8,en;q=0.7,fr;q=0.6,de;q=0.5",
   };
 
   var dataString =
